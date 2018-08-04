@@ -15,7 +15,7 @@
 
 class Solution:
     def isPalindrome(self, x):
-        if x < 0 or x % 10 == 0:
+        if x < 0 or (x % 10 == 0 and x != 0):
             return False
         num = 0
         while x > num:
