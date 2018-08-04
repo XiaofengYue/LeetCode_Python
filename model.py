@@ -1,5 +1,5 @@
 class Solution:
-    def isPalindrome(self, x):
+    def xxx(self, x):
         """
         :type x: int
         :rtype: bool
@@ -9,5 +9,5 @@ class Solution:
 while True:
     test = Solution()
     num = input()
-    result = Solution()
+    result = test.
     print(result)
