@@ -9,5 +9,5 @@ class Solution:
 while True:
     test = Solution()
     num = input()
-    result = test.
+    result = test.as
     print(result)
